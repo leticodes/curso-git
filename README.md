@@ -1,2 +1,2 @@
 # curso-git
-Repositório do curso de Git
+Repositório do curso de Git.
